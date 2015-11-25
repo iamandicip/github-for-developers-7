@@ -3,3 +3,4 @@
 - A favorite food: Vegetables
 - A favorite color: Purple Rain
 - A hobby: Playing squash
+- Birth date: Summer
