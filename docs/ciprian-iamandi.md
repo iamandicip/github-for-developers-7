@@ -1,4 +1,4 @@
 - Name: **Ciprian Iamandi**
 - From: *Romania*
-- A favorite food: French Fries
+- A favorite food: Vegetables
 - A hobby: Playing squash
