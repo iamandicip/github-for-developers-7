@@ -1,5 +1,5 @@
 - Name: **Ciprian Iamandi**
 - From: *Romania*
 - A favorite food: Vegetables
-- A favorite color: Blue
+- A favorite color: Purple Rain
 - A hobby: Playing squash
